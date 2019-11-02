@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+app/production_config.json
+
+app/docker-push.sh
+
+app/bin/
